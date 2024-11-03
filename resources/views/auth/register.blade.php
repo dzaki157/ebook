@@ -12,7 +12,7 @@
         <div class="grid grid-cols-1 lg:grid-cols-2">
             <div class="flex items-center justify-center px-4 py-10 sm:py-16 lg:py-24 bg-gray-50 sm:px-6 lg:px-8">
                 <div>
-                    <img class="w-full mx-auto" src="{{ asset('storage/img/buku.png') }}" alt="" />
+                    <img class="w-full mx-auto" src="{{ asset('/storage/img/buku.png') }}" alt="" />
     
                     <div class="w-full max-w-md mx-auto xl:max-w-xl">
                         <h3 class="text-2xl font-bold text-center text-black">Temukan Dunia Baru Melalui E-Book</h3>
